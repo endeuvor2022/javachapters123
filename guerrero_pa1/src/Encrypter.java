@@ -29,6 +29,7 @@ public class Encrypter {
 		help3 = (number/10)%10%10;
 		
 		
+	
 		arraynum[2] = help3 ;
 		// four number
 		
@@ -36,6 +37,7 @@ public class Encrypter {
 		
 		
 		arraynum[3] = help4;
+
 	
 	
 		//encryonumber
@@ -52,6 +54,7 @@ public class Encrypter {
 		//for (int i = 0; i < 4; i++)
 		//	System.out.print(arraynum[i]);
 		//System.out.println();
+
 	
 		
 		/// change positions
@@ -66,6 +69,7 @@ public class Encrypter {
 		help_change = arraynum[1];
 		arraynum[1] = arraynum[3];
 		arraynum[3]  = help_change;
+		
 	
 		
 		
@@ -96,6 +100,7 @@ public class Encrypter {
 		
 		
 	}
+		help3 = (number/10)%10%10;
 	
 	
 	
